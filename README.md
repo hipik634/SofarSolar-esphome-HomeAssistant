@@ -20,3 +20,8 @@ RS485 - to A and B
 
 loosely based on https://github.com/cmcgerty/Sofar2mqtt , so  you can use the connection images .
 
+install esphome on your device
+
+run "esphome run esp-config.yaml" to upload to device over usb, after that you can push it by OTA
+
+then just add a device in home assistant, integration name esphome.
