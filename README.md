@@ -26,5 +26,5 @@ run "esphome run esp-config.yaml" to upload to device over usb, after that you c
 
 then just add a device in home assistant, integration name esphome.
 
-image.png
+![image](https://user-images.githubusercontent.com/30725259/183476696-01aa7e7d-daf3-4743-8eff-4946b4aa1f20.png)
 
