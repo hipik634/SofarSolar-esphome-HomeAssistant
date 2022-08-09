@@ -39,7 +39,7 @@ connection image:
 
 ![image](https://user-images.githubusercontent.com/30725259/183583805-1b7c1d04-2118-447c-a932-b01329ccc8cd.png)
 
-you can scan by free modbus master tool (2.0.3.0 by Graham A Ross) to find the required registry value
+you can scan by free modbus master tool (2.0.3.0 by Graham A Ross) to find the required registry value (read holding register from start address 0 and size 27)
 
 ![image](https://user-images.githubusercontent.com/30725259/183636515-77bb27c7-dc96-438a-8e06-47df4e9a86cf.png)
 
